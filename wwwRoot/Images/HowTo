@@ -1,0 +1,6 @@
+﻿Ao utilizar a versão final não é uma boa estratégia manter arquivos estáticos dentro da API.
+
+Vida aula: Arquivos estáticos no Balta.IO
+
+Recomendação: Utilizar um storage:
+- Azure Storage
